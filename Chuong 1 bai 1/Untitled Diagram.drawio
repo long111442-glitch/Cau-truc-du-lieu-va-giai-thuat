@@ -1,0 +1,211 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Page-1" id="OMgCXBt9ooLqG_xsppcX">
+    <mxGraphModel dx="808" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-5" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="SwFArP-mp5_3rWVCbCCK-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;b&gt;BAT DAU&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="240" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Nhap a,b,c" vertex="1">
+          <mxGeometry height="50" width="130" x="235" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="a==0" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-8" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-2" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="SwFArP-mp5_3rWVCbCCK-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="260" as="sourcePoint" />
+            <mxPoint x="350" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-9" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-6" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;flowAnimation=0;" value="T">
+          <mxGeometry height="50" relative="1" width="50" x="-0.5" y="10" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="300" y="400" />
+              <mxPoint x="300" y="430" />
+            </Array>
+            <mxPoint x="300" y="460" as="sourcePoint" />
+            <mxPoint x="300" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="b==0" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-12" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-10" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="T">
+          <mxGeometry height="50" relative="1" width="50" x="0.2" y="20" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="320" y="550" as="sourcePoint" />
+            <mxPoint x="300" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="c==0" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-15" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-13" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;shadow=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="SwFArP-mp5_3rWVCbCCK-17" value="T">
+          <mxGeometry height="50" relative="1" width="50" x="0.0526" y="10" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="390" y="590" />
+            </Array>
+            <mxPoint x="320" y="690" as="sourcePoint" />
+            <mxPoint x="390" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-16" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-13" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;shadow=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="SwFArP-mp5_3rWVCbCCK-18" value="F">
+          <mxGeometry height="50" relative="1" width="50" x="0.1685" y="18" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="400" y="750" as="sourcePoint" />
+            <mxPoint x="300" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-17" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="VSN" vertex="1">
+          <mxGeometry height="60" width="120" x="425" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-18" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="VN" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-20" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-10" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;shadow=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="F">
+          <mxGeometry height="50" relative="1" width="50" y="10" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="370" y="500" as="sourcePoint" />
+            <mxPoint x="420" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="x = - c/b" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-22" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-21" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;shadow=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="570" y="470" as="sourcePoint" />
+            <mxPoint x="620" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-23" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="x" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-24" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-6" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;shadow=0;" value="F">
+          <mxGeometry height="50" relative="1" width="50" x="-0.1111" y="10" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="430" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="dt" vertex="1">
+          <mxGeometry height="50" width="90" x="425" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-26" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="dt &amp;gt; 0" vertex="1">
+          <mxGeometry height="80" width="90" x="590" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-27" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-25" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;shadow=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SwFArP-mp5_3rWVCbCCK-26" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="370" as="sourcePoint" />
+            <mxPoint x="590" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-28" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="x1,x2" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-30" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-26" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;shadow=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SwFArP-mp5_3rWVCbCCK-28" value="T">
+          <mxGeometry height="50" relative="1" width="50" x="-0.2" y="10" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="710" y="380" as="sourcePoint" />
+            <mxPoint x="760" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-31" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-26" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;shadow=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="F">
+          <mxGeometry height="50" relative="1" width="50" x="-0.5" y="15" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="670" y="340" as="sourcePoint" />
+            <mxPoint x="635" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-32" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="dt == 0" vertex="1">
+          <mxGeometry height="80" width="80" x="595" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-33" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-32" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;shadow=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="740" y="250" as="sourcePoint" />
+            <mxPoint x="730" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-34" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="x" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-36" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="VN" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-37" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-32" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;defaultLabelBackgroundColor=page;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="SwFArP-mp5_3rWVCbCCK-36" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.3939" as="geometry">
+            <mxPoint x="500" y="110" as="sourcePoint" />
+            <mxPoint x="780" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-39" edge="1" parent="1" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.6061" as="geometry">
+            <mxPoint x="920" y="700" as="sourcePoint" />
+            <mxPoint x="920" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-40" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.8082" y="6.65" as="geometry">
+            <Array as="points" />
+            <mxPoint x="345.5738461538462" y="706.5384615384614" as="sourcePoint" />
+            <mxPoint x="924.42" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-41" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-36" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;shadow=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="870" y="170" as="sourcePoint" />
+            <mxPoint x="920" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-42" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-34" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;shadow=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="900" y="270" as="sourcePoint" />
+            <mxPoint x="920" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-44" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="830" y="340" as="sourcePoint" />
+            <mxPoint x="920" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-45" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-23" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="700" y="510" as="sourcePoint" />
+            <mxPoint x="920" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-46" edge="1" parent="1" source="SwFArP-mp5_3rWVCbCCK-17" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="650" as="sourcePoint" />
+            <mxPoint x="920" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwFArP-mp5_3rWVCbCCK-47" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="KET THUC" vertex="1">
+          <mxGeometry height="80" width="120" x="860" y="-40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aWCylX4gCm3Ho1RkU3Rt" name="Page-2">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WgdYvnNIESnFIqzwL8XM-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="BAT DAU" vertex="1">
+          <mxGeometry height="54" width="100" x="-31" y="-247" as="geometry" />
+        </mxCell>
+        <mxCell id="WgdYvnNIESnFIqzwL8XM-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="-49" y="-131" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
